@@ -1,6 +1,7 @@
 {
   "private": true,
-  "repository": "https://github.com/simplabs/ember-simple-auth",
+  "repository": "https://github.com/esantelises/ember-simple-auth.git",
+  "version": "3.1.0-beta.1",
   "scripts": {
     "changelog": "lerna-changelog",
     "diagrams": "mmdc -i guides/assets/esa-initial-flow.txt -o guides/assets/esa-initial-flow.svg",
